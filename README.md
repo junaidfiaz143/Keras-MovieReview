@@ -1,4 +1,4 @@
-# IMDB moview review Binary Classification
+# IMDB movie review Binary Classification
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/junaidfiaz143/Keras-MovieReview/blob/master/LICENSE) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org/)
 
 
